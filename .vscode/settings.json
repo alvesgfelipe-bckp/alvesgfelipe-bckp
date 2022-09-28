@@ -1,0 +1,12 @@
+{
+  "[css][html][javascript][json][jsonc][markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.rulers": [88],
+    "editor.tabSize": 2
+  },
+
+  "editor.insertSpaces": true,
+  "editor.linkedEditing": true,
+  "files.eol": "\n"
+}
