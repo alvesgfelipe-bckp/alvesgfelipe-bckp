@@ -22,6 +22,10 @@ class AboutMe(object):
             # Database
             "MySQL",
             "SQLite",
+            # Operating System
+            "Linux",  # Using Fedora
+            "Windows",  # Using Windows 11
+            "macOS",  # Not using
         ]
 
         self.fun_fact: str = "I healed from OCD a few days ago."
