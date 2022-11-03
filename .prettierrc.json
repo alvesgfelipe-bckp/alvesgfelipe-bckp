@@ -1,9 +1,18 @@
 {
-  "printWidth": 88,
+  "printWidth": 80,
   "tabWidth": 2,
   "useTabs": false,
   "semi": true,
   "singleQuote": false,
   "jsxSingleQuote": false,
-  "trailingComma": "es5"
+  "trailingComma": "es5",
+
+  "overrides": [
+    {
+      "files": ["*.html", "*.md"],
+      "options": {
+        "printWidth": 120
+      }
+    }
+  ]
 }
